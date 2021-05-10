@@ -5,7 +5,7 @@ First we are going to be working on the Ubuntu server (major version 20)
 
 1. apt update / upgrade
 
-2. apt install make, gcc, gdb, systemd-coredump
+2. apt install make, gcc, gdb
 
 3. https://github.com/gynvael/stream-en
 3.b Work in subfolder 017-fuzzing-basics
